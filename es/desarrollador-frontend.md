@@ -35,8 +35,8 @@ Conocimientos en:
 ## Que ofrecemos
 * Salario competitivo con contrato indefinido.
 * Jornada laboral flexible, 40h semanales:
-  * 8,5 h de lunes a jueves: entrada de 8:00 a 9:30 y  salida de 17:30 a 19:00
-  * 8 h los viernes: entrada de 08:00 a 09:00 y salida de 14:00 a 15:00
+  * 8,5h de lunes a jueves: entrada de 8:00 a 9:30 y  salida de 17:30 a 19:00
+  * 6h los viernes: entrada de 08:00 a 09:00 y salida de 14:00 a 15:00
 * 24 días de vacaciones, 10 de ellos en agosto (negociable segun proyecto)
 * Trabajo en remoto 5 días a la semana con alguna reunión puntual en la oficina.
 * Formaciones.
