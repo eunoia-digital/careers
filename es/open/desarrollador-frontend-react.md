@@ -20,8 +20,8 @@ Participar activamente en el crecimiento de nuestro producto y del equipo median
 
 ## Requisitos
 Experiencia y conocimiento en:
-* Html, JavaScript / TypeScript, ES6 o superior
-* SASS y CSS
+* JavaScript, TypeScript, ES6 o superior
+* ReactJS + Redux + hooks + NextJS, SASS y CSS
 * Conectar con APIs REST
 * Revisiones de código, PR
 * Pair programing
@@ -30,10 +30,7 @@ Experiencia y conocimiento en:
 
 ## Se valorará positivamente
 Conocimientos en:
-* React, Redux, NextJS
-* Angular
-* Vue
-* Frontend testing, Jest (o similar)
+* Frontend testing, Jest (o similar).
 
 ## Que ofrecemos
 * Salario competitivo con contrato indefinido.
