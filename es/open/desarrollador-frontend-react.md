@@ -1,4 +1,4 @@
-# Desarrollador frontend
+# Desarrollador frontend React
 
 *Estado:* &#128994; Abierta
 
