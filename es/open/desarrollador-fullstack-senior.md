@@ -21,7 +21,7 @@ Buscamos un desarrollador fullstack senior para responsabilizarse de las siguien
 
 ## Requisitos
 Aunque no se cumplan el 100% de los requisitos se podría tener en consideración en un función de la experiencia
-* Haber completado una carrera técnica como *ingenieria informática* o similar
+* Haber completado una carrera técnica como *ingeniería informática* o similar
 * 2 o más años de experiencia profesional en desarrollo tanto frontend como backend (web y APIs REST)
 * Amplios conocimientos en lenguajes como JavaScript / TypeScript y Python
 * Amplios conocimientos en programación orientada a objetos y arquitectura del software.
