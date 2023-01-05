@@ -1,4 +1,4 @@
-# Desarrollador aplicaciones android
+# Desarrollador fullstack senior
 
 *Estado:* &#128994; Abierta
 
@@ -9,30 +9,37 @@ Eunoia Digital es una consultora de diseño y desarrollo de experiencia de usuar
   
   
 ## Descripción del empleo
-Buscamos un desarrollador de aplicaciones android para responsabilizarse de las siguientes tareas:
-* Diseñar y construir aplicaciones android nativas.
+Buscamos un desarrollador fullstack senior para responsabilizarse de las siguientes tareas:
 * Mantener y desarrollar los productos de eunoia y de nuestros clientes.
 * Dar soluciones razonables a nivel de diseño técnico y rendimiento teniendo en cuenta las necesidades y requerimientos identificados.
-* Colaborar con equipos multidisciplinares para definir, diseñar, experimentar y publicar nuevas funcionalidades.
+* Gestionar junto con el resto del equipo cómo mantener, desarrollar y desplegar las funcionalidades a nuestros clientes.
+* Dar soporte y seguimiento al resto de desarrolladores más juniors.
+* Colaborar con equipos multidisciplinares para experimentar y proponer nuevas ideas.
 * Garantizar la calidad del código siguiendo los estándares clean code.
 * Participar activamente en el crecimiento de nuestro producto y del equipo mediante las buenas prácticas y compartiendo conocimiento.
 * Analizar y resolver problemas de forma autónoma.
 
 ## Requisitos
-Experiencia y conocimiento en:
-* Desarrollo de aplicaciones android nativas.
-* Publicar aplicaciones en la Google Play Store.
-* Android SDK
-* JAVA, KOTLIN
-* Conectar con APIs REST
-* Revisiones de código, PR
-* Pair programing
-* Control de versiones Git
+Aunque no se cumplan el 100% de los requisitos se podría tener en consideración en un función de la experiencia
+* Haber completado una carrera técnica como *ingenieria informática* o similar
+* 2 o más años de experiencia profesional en desarrollo tanto frontend como backend (web y APIs REST)
+* Amplios conocimientos en lenguajes como JavaScript / TypeScript y Python
+* Amplios conocimientos en programación orientada a objetos y arquitectura del software.
 * Buenas prácticas en OOP, clean code, SOLID
+* Experiencia en frameworks como ReactJS, NextJS, NestJS y Django.
+* Habilidad para desarrollar tests unitarios, integración, rendimiento, …
+* Amplios conocimientos en bases de datos relacionales (PostgreSQL)
+* Experiencia en desarrollar y desplegar aplicaciones con Docker
+* Revisiones de código, PR, pair programing, control de versiones Git
 
 ## Se valorará positivamente
-Conocimientos en:
-* Herramientas de testing para android
+Experiencia o conocimientos en:
+* Herramientas de automatización CI/CD
+* Android, iOS
+* Microservicios
+* Traefik, Nginx, Apache
+* Gestión de certificados SSL, SSH, gestión de servidores
+
 
 ## Qué ofrecemos
 * Salario competitivo con contrato indefinido.
